@@ -22,5 +22,5 @@ function savadata() {
     var divContainer = document.getElementById("showData");
     divContainer.innerHTML = "";
     divContainer.appendChild(table);
-    alert("lkjslkgfj");
+    alert("Success");
 }
